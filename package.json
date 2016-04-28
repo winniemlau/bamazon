@@ -1,0 +1,22 @@
+{
+  "name": "storefront",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winniemlau/storefront_mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winniemlau/storefront_mysql/issues"
+  },
+  "homepage": "https://github.com/winniemlau/storefront_mysql#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
