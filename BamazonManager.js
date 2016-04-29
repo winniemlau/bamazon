@@ -101,7 +101,6 @@ function addToInventory(){
               StockQuantity: res.StockQuantity
             };
 
-          // querry to update stock
           connection.connect();
           connection.query('INSERT INTO products set ?', UpdateItem, function(err, result) {
             if (err) throw err;
